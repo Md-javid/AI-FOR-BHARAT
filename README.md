@@ -126,7 +126,3 @@ The solution evolves into an **Agentic AI system** capable of executing end-to-e
 (Student Developer)
 
 ---
-
-## 📄 License
-
-This project is created for hackathon and educational purposes.
